@@ -1,4 +1,4 @@
-.section-2{
+.header-1{
     padding-top: 5%;
     padding-bottom: 3%;
 }
@@ -9,4 +9,10 @@
     color: rgb(165, 212, 10);}
 .section-4{
     background-image: url(images/FAQ/faqs.jpg);
+}
+.footer-last{
+    font-size: 10px;
+}
+.footer-first{
+    font-size: 13px;
 }
